@@ -1,7 +1,7 @@
 # MNIST_Dataset_CNN
 This project involves developing a CNN model for predicting the class of the clothing based on the input image.
 
-__About Dataset__
+__About Dataset__ 
 __Context__
 MNIST is a subset of a larger set available from NIST (it's copied from http://yann.lecun.com/exdb/mnist/)
 
